@@ -1,0 +1,5 @@
+.env
+.vscode
+node_modules
+service-account-key.json
+choco1-a83f4-firebase-adminsdk-w8vvq-72b7702035.json
